@@ -1,4 +1,4 @@
-# fdp-berlin
+# Starter project for Nuxtjs, Tailwindcss, Storybook, eslint-airbnb
 
 ## Build Setup
 
@@ -15,6 +15,11 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+# run storybook
+$ yarn storybook
+
+# build storybook
+$ yarn build-storybook
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
