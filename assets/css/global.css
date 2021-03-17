@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Cabin-Bold';
+  src: url('~/assets/fonts/Cabin/Cabin-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cabin-BoldItalic';
+  src: url('~/assets/fonts/Cabin/Cabin-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cabin-Medium';
+  src: url('~/assets/fonts/Cabin/Cabin-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cabin-Regular';
+  src: url('~/assets/fonts/Cabin/Cabin-Regular.ttf') format('truetype');
+}
