@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'fdp-berlin',
+    title: 'Nuxtjs-starter',
     htmlAttrs: {
       lang: 'en',
     },
